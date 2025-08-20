@@ -1,0 +1,178 @@
+08/18/2025 02:34:13 AM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 02:34:17 AM: INFO: *************** Home Page title is correct ***************
+08/18/2025 02:34:21 AM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 02:34:29 AM: INFO: *************** Login test passed ***************
+08/18/2025 08:11:36 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 08:11:41 PM: INFO: *************** Home Page title is correct ***************
+08/18/2025 08:11:45 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 08:11:53 PM: ERROR: *************** Login test failed! Got: nopCommerce demo store. Login ***************
+08/18/2025 08:13:39 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 08:13:42 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 08:13:49 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 08:13:58 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 08:18:33 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 08:18:34 PM: INFO: *************** Home Page title is correct ***************
+08/18/2025 08:18:44 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 08:18:49 PM: INFO: *************** Login test passed ***************
+08/18/2025 10:11:15 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 10:11:15 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 10:11:17 PM: INFO: *************** Home Page title is correct ***************
+08/18/2025 10:11:19 PM: INFO: *************** Login test passed ***************
+08/18/2025 10:12:41 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 10:12:41 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 10:12:45 PM: ERROR: *************** Login test failed! Got: nopCommerce demo store. Login ***************
+08/18/2025 10:12:45 PM: INFO: *************** Home Page title is correct ***************
+08/18/2025 10:13:21 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/18/2025 10:13:22 PM: INFO: *************** Test_001_Login :: test_homePageTitle started ***************
+08/18/2025 10:13:24 PM: INFO: *************** Home Page title is correct ***************
+08/18/2025 10:13:27 PM: INFO: *************** Login test passed ***************
+08/19/2025 12:11:18 AM: INFO: *********Test_002_Login***********
+08/19/2025 12:11:18 AM: INFO: *********Verifing Login DDT test***********
+08/19/2025 12:14:01 AM: INFO: *********Test_002_Login***********
+08/19/2025 12:14:01 AM: INFO: *********Verifing Login DDT test***********
+08/19/2025 12:14:46 AM: INFO: *********Test_002_Login***********
+08/19/2025 12:14:46 AM: INFO: *********Verifing Login DDT test***********
+08/19/2025 12:15:02 AM: INFO: **Fail**
+08/19/2025 12:24:38 AM: INFO: *********Test_002_Login***********
+08/19/2025 12:24:38 AM: INFO: *********Verifing Login DDT test***********
+08/19/2025 12:24:47 AM: INFO: **Fail**
+08/19/2025 12:31:25 AM: INFO: *********Test_002_Login***********
+08/19/2025 12:31:25 AM: INFO: *********Verifing Login DDT test***********
+08/19/2025 12:31:39 AM: INFO: **PASSED**
+08/19/2025 12:31:49 AM: INFO: **Passed**
+08/19/2025 12:31:54 AM: INFO: **Passed**
+08/19/2025 12:32:00 AM: INFO: **Passed**
+08/19/2025 12:32:00 AM: INFO: **Login DDT test passed**
+08/19/2025 05:50:14 PM: INFO: **TEST 003  Add Customer
+08/19/2025 05:53:31 PM: INFO: **TEST 003  Add Customer
+08/19/2025 05:53:37 PM: INFO: ** Login Successfully
+08/19/2025 06:37:13 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:37:20 PM: INFO: ** Login Successfully
+08/19/2025 06:39:03 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:39:10 PM: INFO: ** Login Successfully
+08/19/2025 06:47:15 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:48:12 PM: INFO: ** Login Successfully
+08/19/2025 06:49:27 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:49:43 PM: INFO: ** Login Successfully
+08/19/2025 06:52:47 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:52:54 PM: INFO: ** Login Successfully
+08/19/2025 06:54:32 PM: INFO: ** providing customer info**
+08/19/2025 06:58:14 PM: INFO: **TEST 003  Add Customer
+08/19/2025 06:58:21 PM: INFO: ** Login Successfully
+08/19/2025 07:02:30 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:02:36 PM: INFO: ** Login Successfully
+08/19/2025 07:06:49 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:07:00 PM: INFO: ** Login Successfully
+08/19/2025 07:08:03 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:08:22 PM: INFO: ** Login Successfully
+08/19/2025 07:10:51 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:11:01 PM: INFO: ** Login Successfully
+08/19/2025 07:16:50 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:16:57 PM: INFO: ** Login Successfully
+08/19/2025 07:31:56 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:31:59 PM: INFO: ** Login Successfully
+08/19/2025 07:35:15 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:35:21 PM: INFO: ** Login Successfully
+08/19/2025 07:37:20 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:37:27 PM: INFO: ** Login Successfully
+08/19/2025 07:40:25 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:40:31 PM: INFO: ** Login Successfully
+08/19/2025 07:41:27 PM: INFO: **TEST 003  Add Customer
+08/19/2025 07:41:39 PM: INFO: ** Login Successfully
+08/19/2025 07:59:23 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:00:14 PM: INFO: ** Login Successfully
+08/19/2025 08:03:53 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:04:34 PM: INFO: ** Login Successfully
+08/19/2025 08:05:32 PM: INFO: ** providing customer info**
+08/19/2025 08:10:59 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:11:18 PM: INFO: ** Login Successfully
+08/19/2025 08:11:25 PM: INFO: ** providing customer info**
+08/19/2025 08:14:59 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:15:05 PM: INFO: ** Login Successfully
+08/19/2025 08:16:53 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:17:13 PM: INFO: ** Login Successfully
+08/19/2025 08:18:52 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:19:00 PM: INFO: ** Login Successfully
+08/19/2025 08:19:07 PM: INFO: ** providing customer info**
+08/19/2025 08:24:58 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:25:05 PM: INFO: ** Login Successfully
+08/19/2025 08:25:34 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:25:39 PM: INFO: ** Login Successfully
+08/19/2025 08:26:53 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:26:55 PM: INFO: ** Login Successfully
+08/19/2025 08:27:02 PM: INFO: ** providing customer info**
+08/19/2025 08:42:17 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:42:24 PM: INFO: ** Login Successfully
+08/19/2025 08:42:33 PM: INFO: ** providing customer info**
+08/19/2025 08:45:20 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:45:28 PM: INFO: ** Login Successfully
+08/19/2025 08:45:38 PM: INFO: ** providing customer info**
+08/19/2025 08:48:27 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:48:31 PM: INFO: ** Login Successfully
+08/19/2025 08:48:40 PM: INFO: ** providing customer info**
+08/19/2025 08:50:53 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:51:03 PM: INFO: ** Login Successfully
+08/19/2025 08:51:18 PM: INFO: ** providing customer info**
+08/19/2025 08:57:20 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:57:23 PM: INFO: ** Login Successfully
+08/19/2025 08:57:43 PM: INFO: **TEST 003  Add Customer
+08/19/2025 08:57:48 PM: INFO: ** Login Successfully
+08/19/2025 08:57:55 PM: INFO: ** providing customer info**
+08/19/2025 09:02:30 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:02:32 PM: INFO: ** Login Successfully
+08/19/2025 09:02:56 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:02:59 PM: INFO: ** Login Successfully
+08/19/2025 09:03:27 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:03:33 PM: INFO: ** Login Successfully
+08/19/2025 09:04:07 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:04:16 PM: INFO: ** Login Successfully
+08/19/2025 09:04:24 PM: INFO: ** providing customer info**
+08/19/2025 09:08:05 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:08:14 PM: INFO: ** Login Successfully
+08/19/2025 09:08:24 PM: INFO: ** providing customer info**
+08/19/2025 09:10:12 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:10:19 PM: INFO: ** Login Successfully
+08/19/2025 09:10:30 PM: INFO: ** providing customer info**
+08/19/2025 09:33:36 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:34:53 PM: INFO: **TEST 003  Add Customer
+08/19/2025 09:35:00 PM: INFO: ** Login Successfully
+08/19/2025 09:35:13 PM: INFO: ** providing customer info**
+08/20/2025 12:16:53 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:17:00 AM: INFO: ** Login Successful**
+08/20/2025 12:17:05 AM: INFO: ****searching started
+08/20/2025 12:17:57 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:18:03 AM: INFO: ** Login Successful**
+08/20/2025 12:18:24 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:18:34 AM: INFO: ** Login Successful**
+08/20/2025 12:18:38 AM: INFO: ****searching started
+08/20/2025 12:24:41 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:24:44 AM: INFO: ** Login Successful**
+08/20/2025 12:28:27 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:28:36 AM: INFO: ** Login Successful**
+08/20/2025 12:28:43 AM: INFO: ****searching started
+08/20/2025 12:31:11 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:31:17 AM: INFO: ** Login Successful**
+08/20/2025 12:31:23 AM: INFO: ****searching started
+08/20/2025 12:32:03 AM: INFO: ** Scearchcustomerby Email**
+08/20/2025 12:32:11 AM: INFO: ** Login Successful**
+08/20/2025 12:32:15 AM: INFO: ****searching started
+08/20/2025 12:32:18 AM: INFO: *** TC finisheddd
+08/20/2025 04:05:29 PM: INFO: ** Scearchcustomerby Name**
+08/20/2025 04:05:37 PM: INFO: ** Login Successful**
+08/20/2025 04:06:38 PM: INFO: ** Scearchcustomerby Name**
+08/20/2025 04:06:49 PM: INFO: ** Login Successful**
+08/20/2025 04:06:55 PM: INFO: ****searching started
+08/20/2025 04:06:59 PM: INFO: *** TC finisheddd  by Test case of finding by name 
+08/20/2025 04:53:21 PM: INFO: **TEST 003  Add Customer
+08/20/2025 04:53:34 PM: INFO: ** Login Successfully
+08/20/2025 04:53:41 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/20/2025 04:53:54 PM: INFO: *************** Login test passed ***************
+08/20/2025 04:59:37 PM: INFO: **TEST 003  Add Customer
+08/20/2025 04:59:44 PM: INFO: ** Login Successfully
+08/20/2025 04:59:53 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/20/2025 05:00:00 PM: ERROR: *************** Login test failed! Got: nopCommerce demo store. Login ***************
+08/20/2025 05:00:59 PM: INFO: **TEST 003  Add Customer
+08/20/2025 05:01:22 PM: INFO: ** Login Successfully
+08/20/2025 05:01:33 PM: INFO: ** providing customer info**
+08/20/2025 05:01:35 PM: INFO: *************** Test_001_Login :: test_login started ***************
+08/20/2025 05:01:48 PM: INFO: *************** Login test passed ***************
