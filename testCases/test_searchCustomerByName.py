@@ -38,9 +38,9 @@ class Test_SearchCustomerByName_004:
 
         self.logger.info("****searching started")
         searchcust=SearchCustomer(self.driver)
-        searchcust.setFirstName("Sam")
-        searchcust.setLastName("Tarly")
+        searchcust.setFirstName("Steve")   #Steve Gates
+        searchcust.setLastName("Gates")
         time.sleep(3)
-        status=searchcust.searchCustomerByName("Sam Tarly")
+        status=searchcust.searchCustomerByName("Steve Gates")
         assert True==status
         self.logger.info("*** TC finisheddd  by Test case of finding by name ")
