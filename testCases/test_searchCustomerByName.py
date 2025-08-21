@@ -38,7 +38,7 @@ class Test_SearchCustomerByName_004:
 
         self.logger.info("****searching started")
         searchcust=SearchCustomer(self.driver)
-        searchcust.setFirstName("Steve")   #Steve Gates
+        searchcust.setFirstName("Steve")   #Steve Gatess
         searchcust.setLastName("Gates")
         time.sleep(3)
         status=searchcust.searchCustomerByName("Steve Gates")
